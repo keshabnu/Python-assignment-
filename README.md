@@ -1,2 +1,2 @@
 # Python-assignment-
-This is a bot 
+This is a  trading bot which helps in trading activities.
